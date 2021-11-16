@@ -1,15 +1,12 @@
 # Uyghur-fonts
 626-Uyghur-Fonts from the Internet
-# 626-Uyghur-Fonts
+# Disclaimer
 
-### Disclaimer: All fonts in this catalog are from the Internet, and the copyright belongs to the original author. Thanks to the original authors for their contributions to these awesome beautiful fonts~
+### All fonts in this catalog are from the Internet, and the copyright belongs to the original author. Thanks to the original authors for their contributions to these awesome beautiful fonts~
 
 <div dir="rtl">
 ئاگاھلاندۇرۇش: بۇ مۇندەرىجەدىكى بارلىق خەت نۇسخىسى توردىن كەلگەن ، نەشر ھوقۇقى ئەسلى ئاپتورغا تەۋە. ئەسلى ئاپتورلارنىڭ بۇ قالتىس گۈزەل خەت نۇسخىلىرىغا قوشقان تۆھپىسىگە رەھمەت!
 </div>
-
-### 免责声明：本目录下所有字体均来自互联网，版权归原作者所有。在此感谢原作者们为这些极其美丽字体做出的贡献~
-
 
 
 ### Fonts List
