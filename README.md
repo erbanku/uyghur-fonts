@@ -1,6 +1,6 @@
 # Uyghur-fonts
 626-Uyghur-Fonts from the Internet
-# Disclaimer
+## Disclaimer
 
 ### All fonts in this catalog are from the Internet, and the copyright belongs to the original author. Thanks to the original authors for their contributions to these awesome beautiful fonts~
 
@@ -9,7 +9,7 @@
 </div>
 
 
-### Fonts List
+## Fonts List
 
 Font name   |   Font size
 
